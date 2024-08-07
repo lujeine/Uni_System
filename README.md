@@ -1,1 +1,1 @@
-Simple Registration System using OOP and Databases
+Simple Courses Registration System using OOP and Databases
